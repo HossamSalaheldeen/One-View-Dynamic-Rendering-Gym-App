@@ -1,0 +1,5 @@
+let formRules = () => {
+    return {
+        rules: {},
+    }
+};

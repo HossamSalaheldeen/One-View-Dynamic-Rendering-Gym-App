@@ -1,0 +1,11 @@
+@import "common-selectors.css";
+@import "common-dates.css";
+@import "common-uploads.css";
+@import "common-buttons.css";
+@import "common-errors.css";
+@import "common-inputs.css";
+.welcome-title {
+    background-color: #343a40;
+    border: 1px solid #6c757d;
+    color: #fff;
+}
